@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!python2   
+# -*- coding: utf-8 -*-
 """
 Tool to convert from logfile of GPS-measurements to RINEX format
 """
